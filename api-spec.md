@@ -31,3 +31,5 @@ Parameter | Default | Description
 --------- | ------- | -----------
 name | "Ralph" | If specified, the new doge will be given this name.
 cute | true | If set to false, the doge will have a cuteness level of zero.
+
+Chocolate cake cookie pie halvah liquorice cheesecake chocolate carrot cake. Cotton candy icing sesame snaps muffin tiramisu halvah fruitcake cheesecake. Tart apple pie bonbon powder. Candy chocolate bar soufflé jujubes icing muffin dessert chocolate croissant. Tart apple pie gingerbread pastry jujubes cake tiramisu donut. Marzipan lemon drops ice cream liquorice sesame snaps. Faworki brownie icing fruitcake cupcake donut. Soufflé jelly macaroon candy canes oat cake gummi bears. Cupcake carrot cake lollipop toffee.
