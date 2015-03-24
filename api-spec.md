@@ -2,8 +2,6 @@
 
 ## Create New Doge
 
-`POST http://example.com/api/doges`
-
 ```shell
 curl -XPOST "http://example.com/api/doges"
   -H "Authorization: woffwoff"
@@ -24,6 +22,8 @@ curl -XPOST "http://example.com/api/doges"
 This endpoint creates a new doge.
 
 ### HTTP Request
+
+`POST http://example.com/api/doges`
 
 ### Query Parameters
 
