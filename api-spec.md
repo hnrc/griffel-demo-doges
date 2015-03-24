@@ -2,10 +2,6 @@
 
 ## Create New Doge
 
-This endpoint creates a new doge.
-
-### HTTP Request
-
 `POST http://example.com/api/doges`
 
 ```shell
@@ -24,6 +20,10 @@ curl -XPOST "http://example.com/api/doges"
   "cuteness": 0
 }
 ```
+
+This endpoint creates a new doge.
+
+### HTTP Request
 
 ### Query Parameters
 
