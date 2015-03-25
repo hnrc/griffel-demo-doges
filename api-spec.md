@@ -1,6 +1,6 @@
 # Doges
 
-## Create New Doge
+## Create New Doge :dog:
 
 ```shell
 curl -XPOST "http://example.com/api/doges"
